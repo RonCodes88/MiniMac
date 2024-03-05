@@ -1,5 +1,0 @@
-load 0 0
-load 1 10
-load 2 -1
-halt
-load 3 2
